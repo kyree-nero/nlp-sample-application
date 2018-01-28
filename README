@@ -1,0 +1,5 @@
+This is my getting started project w/ NLP.
+
+It uses CoreNLP, Spring Boot 2, and junit 5
+
+The first project has a rest api that shows a paragraph after lemmatisation.
